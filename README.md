@@ -73,4 +73,52 @@ A partir de estos scores se construyen los siguientes segmentos:
 ---
 
 ## 📂 Estructura del proyecto
+├── notebooks/
+│ └── 01_eda_superstore.ipynb
+├── outputs/
+│ ├── evolucion_mensual_ventas.png
+│ ├── ventas_por_anio.png
+│ ├── ventas_por_categoria.png
+│ ├── ventas_por_region.png
+│ └── ventas_vs_ganancia.png
+├── Dashboard/
+│ └── DashboardEjecutivo.pbix
+├── data/
+│ └── Sample-Superstore.xlsx
+└── README.md
+
+---
+
+## 📊 Dashboard Ejecutivo (Power BI)
+
+El dashboard incluye:
+
+- KPIs principales (clientes, ventas totales, ticket promedio)
+- Distribución de ingresos por segmento
+- Cantidad de clientes por segmento
+- Ticket promedio por segmento
+- Insight ejecutivo enfocado en segmentos de alto valor
+
+📌 El archivo `.pbix` puede descargarse y explorarse localmente con **Power BI Desktop**.
+
+---
+
+## 🚀 Valor del proyecto
+
+Este proyecto demuestra:
+
+- Pensamiento analítico aplicado al negocio  
+- Dominio del flujo end-to-end de análisis de datos  
+- Capacidad para transformar datos en **insights accionables**  
+- Integración efectiva entre **Python y Power BI**
+
+---
+
+## 👤 Autor
+
+**Mariano Vergniaud**  
+📊 Analista de Datos | 💻 Desarrollador  
+
+
+
 
